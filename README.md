@@ -1,3 +1,1 @@
-# Ananke Git Submodule Example
-
-Git Submodule based example repository for the [Ananke](https://github.com/theNewDynamic/ananke) theme for [GoHugo](https://gohugo.io/).
+Git Submodule based template repository for the [Ananke theme](https://github.com/theNewDynamic/gohugo-theme-ananke) for [GoHugo](https://gohugo.io/).
