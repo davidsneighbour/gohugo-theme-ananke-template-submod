@@ -5,6 +5,8 @@ defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
 
+theme = "ananke"
+
 [services.googleAnalytics]
 id = ''
 
