@@ -1,0 +1,21 @@
+{
+  "name": "gohugo-theme-ananke-template-submod",
+  "version": "0.0.1",
+  "description": "Git Submodule based template repository for the [Ananke theme](https://github.com/theNewDynamic/gohugo-theme-ananke) for [GoHugo](https://gohugo.io/).",
+  "main": "index.js",
+  "scripts": {
+    "update": "git submodule update --remote --merge && git add themes/ananke && git commit -m 'build(deps): update git submodule'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsneighbour/gohugo-theme-ananke-template-submod.git"
+  },
+  "keywords": [],
+  "author": "Patrick Kollitsch <davidsneighbourdev+gh@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/davidsneighbour/gohugo-theme-ananke-template-submod/issues"
+  },
+  "homepage": "https://github.com/davidsneighbour/gohugo-theme-ananke-template-submod#readme"
+}
